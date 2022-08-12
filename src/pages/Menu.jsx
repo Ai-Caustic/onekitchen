@@ -8,8 +8,6 @@ import { Accompaniments as sides } from "../menuitems/Accompaniments";
 import { Bitings as bites } from "../menuitems/Bitings";
 import menuImage from "../assets/MenuBackground4.jpg";
 import menuImage2 from "../assets/MenuBackground.jpg";
-import menuImage3 from "../assets/Meat.jpg";
-
 
 function Menu() {
   return (
