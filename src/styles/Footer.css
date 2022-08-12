@@ -1,0 +1,18 @@
+.footer {
+  width: 100%;
+  height: auto;
+  background-color: #121212;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.footer p {
+  color: wheat;
+}
+#icon {
+  color: red;
+}
