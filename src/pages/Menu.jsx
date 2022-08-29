@@ -6,12 +6,12 @@ import Bitings from "../components/Bitings";
 import { Mainmenu } from "../menuitems/Mainmenu";
 import { Accompaniments as sides } from "../menuitems/Accompaniments";
 import { Bitings as bites } from "../menuitems/Bitings";
-import menuImage from "../assets/MenuBackground4.jpg";
+
 import menuImage2 from "../assets/MenuBackground.jpg";
 
 function Menu() {
   return (
-    <div className="menu" style={{ backgroundImage: `url(${menuImage})` }}>
+    <div className="menu">
       <div
         className="menuintro"
         style={{ backgroundImage: `url(${menuImage2})` }}

@@ -19,7 +19,7 @@
   text-align: center;
   font-size: 50px;
   font-weight: bolder;
-  color: goldenrod;
+  color: white;
   justify-content: center;
   align-items: center;
   padding-bottom: 30px;
@@ -31,7 +31,7 @@
   text-align: center;
   font-size: 30px;
   font-weight: bold;
-  color: tomato;
+  color: white;
   font-family: Didot;
 }
 
@@ -61,7 +61,7 @@
   transition: 0.3s ease-in;
 }
 #lo {
-  color: lime;
+  color: gold;
 }
 
 @media only screen and (max-width: 650px) {
