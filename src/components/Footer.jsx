@@ -8,7 +8,7 @@ function Footer() {
       <div className="footerText">
         <p>
           {" "}
-          &copy; 2022. Made with <FavoriteIcon fontSize="small" id="icon" /> By
+          &copy; 2023. Made with <FavoriteIcon fontSize="small" id="icon" /> By
           Victor{" "}
         </p>
       </div>
